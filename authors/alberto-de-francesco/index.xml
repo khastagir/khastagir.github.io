@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alberto De Francesco | Nicola Tonellotto Homepage</title>
+    <link>https://khastagir.github.io/authors/alberto-de-francesco/</link>
+      <atom:link href="https://khastagir.github.io/authors/alberto-de-francesco/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alberto De Francesco</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nicola Tonellotto 2020-2020</copyright><lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Alberto De Francesco</title>
+      <link>https://khastagir.github.io/authors/alberto-de-francesco/</link>
+    </image>
+    
+    <item>
+      <title>The MIDAS Cloud Platform for Testing SOA Applications</title>
+      <link>https://khastagir.github.io/publication/midas-2/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/midas-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIDAS: A Cloud Platform for SOA Testing as a Service</title>
+      <link>https://khastagir.github.io/publication/midas-journal/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/midas-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A SOA Testing platform on the Cloud: the MIDAS experience</title>
+      <link>https://khastagir.github.io/publication/midas-1/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/midas-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

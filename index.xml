@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicola Tonellotto Homepage</title>
+    <link>https://khastagir.github.io/</link>
+      <atom:link href="https://khastagir.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicola Tonellotto Homepage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nicola Tonellotto 2020-2020</copyright><lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Nicola Tonellotto Homepage</title>
+      <link>https://khastagir.github.io/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://khastagir.github.io/courses/aa1920/cloud/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/courses/aa1920/cloud/</guid>
+      <description>&lt;h1 id=&#34;cloud-computing&#34;&gt;Cloud Computing&lt;/h1&gt;
+&lt;h4 id=&#34;anno-accademico-201920&#34;&gt;Anno Accademico 2019/20&lt;/h4&gt;
+&lt;hr&gt;
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;div&gt;
+    &lt;ul&gt;
+&lt;li&gt;Due to the COVID-19 national emergency, the lectures will be provided in online mode only using &lt;a href=&#34;https://products.office.com/en-US/microsoft-teams/group-chat-software&#34;&gt;Microsoft Teams&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;The code to access the online classrooms is available &lt;a href=&#34;https://elearn.ing.unipi.it/mod/forum/discuss.php?d=8680&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;general-information&#34;&gt;General information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;MSc in 
+&lt;a href=&#34;https://computer.ing.unipi.it/aide-lm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artificial Intelligence and Data Engineering&lt;/a&gt;, 
+&lt;a href=&#34;http://www.unipi.it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Pisa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;MSc in 
+&lt;a href=&#34;https://computer.ing.unipi.it/ce-lm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computer Engineering&lt;/a&gt;, 
+&lt;a href=&#34;http://www.unipi.it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Pisa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Teacher: 
+&lt;a href=&#34;http://www.iet.unipi.it/c.vallati/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carlo Vallati&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Co-teacher: 
+&lt;a href=&#34;http://tonellotto.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nicola Tonellotto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;CFU: 9&lt;/li&gt;
+&lt;li&gt;Term: Second semeter&lt;/li&gt;
+&lt;li&gt;Language: English&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tuesday 8:30 &amp;ndash; 10:30 (&lt;del&gt;Aula SI5, Polo B&lt;/del&gt; Online)&lt;/li&gt;
+&lt;li&gt;Tuesday 15:30 &amp;ndash; 18:30 (&lt;del&gt;Aula A21, Polo A&lt;/del&gt; Online)&lt;/li&gt;
+&lt;li&gt;Friday 8:30 &amp;ndash; 11:30 (&lt;del&gt;Aula A22, Polo A&lt;/del&gt; Online)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;office-hours&#34;&gt;Office hours&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Monday 10:00 &amp;ndash; 13:00 (&lt;del&gt;Information Engineering Department, Polo A&lt;/del&gt; Online)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;learning-objectives&#34;&gt;Learning objectives&lt;/h2&gt;
+&lt;p&gt;The objective of the course is to teach topics in cloud computing, including also hands-on technical knowledge. Foundation principles of cloud computing and advanced technologies are covered including concepts of the cloud infrastructure, cloud platforms and cloud programming models. At the end of the course, students are expected to develop in deep knowledge of the cloud computing infrastructure and platforms, required to understand, design, and analyze current and future cloud infrastructure and applications.&lt;/p&gt;
+&lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GENERAL INTRODUCTION AND FOUNDATIONS CONCEPTS. General introduction to Cloud computing. Comparison with traditional computing. Main advantages and benefits. How cloud computing addresses business challenges.&lt;/li&gt;
+&lt;li&gt;VIRTUALIZATION TECHNOLOGIES. Introduction to computing resource virtualization. Machine level virtualization techniques. Operating system level virtualization techniques, containerization. Advantages and disadvantages of each approach. Laboratory: exercises on virtualization (Libvirt) and containerization (Docker).&lt;/li&gt;
+&lt;li&gt;CLOUD APPLICATIONS. Cloud application structure. Rest services. Distributed cloud applications. Queue based distributed systems. Laboratory: practical examples of cloud applications&lt;/li&gt;
+&lt;li&gt;CLOUD PLATFORMS. Cloud computing platforms overall architecture: IaaS and PaaS platform architecture. Introduction to OpenStack and Kubernetes. Laboratory: hands on with OpenStack and Kubernetes.&lt;/li&gt;
+&lt;li&gt;CLOUD INFRASTRUCTURE AND MECHANISMS. General architecture of a datacenter. Principles of cloud platform networking. Cloud storage and distributed file systems. Content Distribution Networks. Service Level Agreement. Future trends in cloud computing architectures.&lt;/li&gt;
+&lt;li&gt;CLOUD PROGRAMMING MODELS. General introduction to cloud programming models for big data analysis. Cloud execution flow, scheduling and fault tolerance. The MapReduce programming model. Laboratory: hands on experience with Hadoop and Spark.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;final-exam&#34;&gt;Final Exam&lt;/h2&gt;
+&lt;p&gt;Students have to carry out two projects in group as part of the final exam, one project covering the part on Cloud Applications/Platforms, another covering the part on Cloud Programming Models. The final exam consists in a presentation and discussion of the project and an oral exam.&lt;/p&gt;
+&lt;h2 id=&#34;libri-di-testo&#34;&gt;Libri di testo&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.amazon.com/Cloud-Computing-Sandeep-Bhowmik/dp/1316638103&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Cloud computing&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+by S. Bhowmik, Cambridge University Press (1st edition).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.amazon.it/Hadoop-Definitive-Guide-Tom-White/dp/1491901632&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hadoop - The Definitive Guide&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+by T. White, O&amp;rsquo;Reilly (4th edition).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.amazon.it/Learning-Spark-Lightning-Fast-Data-Analysis/dp/1449358624&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Learning Spark&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+by H. Karay, A. Konwinski, P. Wnedell and M. Zaharia, O&amp;rsquo;Reilly.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;class-registry&#34;&gt;Class registry&lt;/h2&gt;
+&lt;p&gt;See 
+&lt;a href=&#34;https://unimap.unipi.it/registri/dettregistriNEW.php?re=3301056::::&amp;amp;ri=50325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;course-material&#34;&gt;Course Material&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Cloud platforms 
+&lt;a href=&#34;https://elearn.ing.unipi.it/course/view.php?id=1802%22%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  &lt;i class=&#34;fas fa-external-link-alt  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Cloud programming: 
+&lt;a href=&#34;https://github.com/tonellotto/cloud-computing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  &lt;i class=&#34;fas fa-external-link-alt  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://khastagir.github.io/courses/aa1920/informatica/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/courses/aa1920/informatica/</guid>
+      <description>&lt;h1 id=&#34;informatica&#34;&gt;Informatica&lt;/h1&gt;
+&lt;h4 id=&#34;anno-accademico-201920&#34;&gt;Anno Accademico 2019/20&lt;/h4&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;informazioni-generali&#34;&gt;Informazioni generali&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Corso di laurea in 
+&lt;a href=&#34;http://biomedica.ing.unipi.it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ingegneria Biomedica&lt;/a&gt; dell&amp;rsquo;
+&lt;a href=&#34;http://www.unipi.it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Università di Pisa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Responsabile: 
+&lt;a href=&#34;http://www.iet.unipi.it/c.bernardeschi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cinzia Bernardeschi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Codocente: 
+&lt;a href=&#34;http://tonellotto.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nicola Tonellotto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;CFU: 6&lt;/li&gt;
+&lt;li&gt;Periodo: Primo semestre&lt;/li&gt;
+&lt;li&gt;Lingua: Italiano&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;orario-delle-lezioni&#34;&gt;Orario delle lezioni&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mercoledì: 10:30 &amp;ndash; 12:30 (Aula B21, Polo B)&lt;/li&gt;
+&lt;li&gt;Venerdì: 10:30 &amp;ndash; 11:30 (aula B21, Polo B)&lt;/li&gt;
+&lt;li&gt;Venerdì: 11:30 &amp;ndash; 13:30 (aule B21 e aula SI5, Polo B)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ricevimento-studenti&#34;&gt;Ricevimento studenti&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Lunedì dalle 10 alle 13 (Dipartimento di Ingegneria dell&amp;rsquo;Informazione, Polo A)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;obiettivi-formativi&#34;&gt;Obiettivi formativi&lt;/h2&gt;
+&lt;p&gt;Gli obiettivi formativi del corso sono di introdurre i principi e le tecniche di programmazione usando il linguaggio C++. Facendo ricorso a numerosi esempi pratici, lo studente verrà messo in condizione di scrivere ed eseguire semplici programmi procedurali.&lt;/p&gt;
+&lt;h2 id=&#34;argomenti-di-massima&#34;&gt;Argomenti di massima&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organizzazione di un calcolatore&lt;/li&gt;
+&lt;li&gt;Struttura a blocchi di un calcolatore&lt;/li&gt;
+&lt;li&gt;Rappesentazione dell&amp;rsquo;informazione&lt;/li&gt;
+&lt;li&gt;Il calcolatore come ambiente di sviluppo e di esecuzione di programmi&lt;/li&gt;
+&lt;li&gt;Elementi sintattici&lt;/li&gt;
+&lt;li&gt;Tipi fondamentali&lt;/li&gt;
+&lt;li&gt;Istruzioni semplici&lt;/li&gt;
+&lt;li&gt;Ingresso e uscita dei dati&lt;/li&gt;
+&lt;li&gt;Istruzioni strutturate e di salto&lt;/li&gt;
+&lt;li&gt;Funzioni&lt;/li&gt;
+&lt;li&gt;Puntatori&lt;/li&gt;
+&lt;li&gt;Array&lt;/li&gt;
+&lt;li&gt;Strutture&lt;/li&gt;
+&lt;li&gt;Programmazione iterativa e ricorsiva&lt;/li&gt;
+&lt;li&gt;Esempi di strutture dati: pile e code&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;modalità-di-esame&#34;&gt;Modalità di esame&lt;/h2&gt;
+&lt;p&gt;Prova scritta e prova orale.&lt;/p&gt;
+&lt;h2 id=&#34;libri-di-testo&#34;&gt;Libri di testo&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.amazon.it/Note-organizzazione-calcolatore-Rappresentazione-dellinformazione/dp/8846750497&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Note su organizzazione di un calcolatore. Rappresentazione dell&amp;rsquo;informazione&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+di P. Corsini e G. Frosini, edito da Edizioni ETS.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.amazon.it/Introduzione-programmazione-elementi-strutture-linguaggio/dp/8846462025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Introduzione alla Programmazione ed Elementi di Strutture Dati con il Linguaggio C++&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+di A. Domenici e G. Frosini, edito da Franco Angeli.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;programma-delle-lezioni&#34;&gt;Programma delle lezioni&lt;/h2&gt;
+&lt;p&gt;Vedi 
+&lt;a href=&#34;https://unimap.unipi.it/registri/dettregistriNEW.php?re=3297301::::&amp;amp;ri=50325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;qui&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;materiale-didattico&#34;&gt;Materiale didattico&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduzione 
+&lt;a href=&#34;http://www.iet.unipi.it/c.bernardeschi/didattica/Didattica2019-20/1-Introduzione.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  &lt;i class=&#34;fas fa-file-pdf  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Programmazione strutturata in C 
+&lt;a href=&#34;http://www.iet.unipi.it/c.bernardeschi/didattica/Didattica2019-20/2-linguaggio.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  &lt;i class=&#34;fas fa-file-pdf  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Esercizi 
+&lt;a href=&#34;http://www.iet.unipi.it/c.bernardeschi/FondamentiDiInformatica.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  &lt;i class=&#34;fas fa-external-link-alt  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://khastagir.github.io/courses/aa1920/siselab/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/courses/aa1920/siselab/</guid>
+      <description>&lt;h1 id=&#34;sistemi-di-elaborazione&#34;&gt;Sistemi di Elaborazione&lt;/h1&gt;
+&lt;h4 id=&#34;anno-accademico-201920&#34;&gt;Anno Accademico 2019/20&lt;/h4&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;informazioni-generali&#34;&gt;Informazioni generali&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Corso di laurea del 
+&lt;a href=&#34;http://www.marina.difesa.it/il-tuo-futuro-e-il-mare/formazione-in-marina/accademia_navale/studio/piano_studi/Pagine/default.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Corpo Tecnico del Genio della Marina&lt;/a&gt;, Specializzazione 
+&lt;a href=&#34;http://www.marina.difesa.it/il-tuo-futuro-e-il-mare/formazione-in-marina/accademia_navale/studio/piano_studi/Pagine/armi_navali.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Armi Navali&lt;/a&gt;, dell&amp;rsquo; 
+&lt;a href=&#34;http://www.marina.difesa.it/Pagine/default.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Accademia Navale di Livorno&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Responsabile: 
+&lt;a href=&#34;http://tonellotto.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nicola Tonellotto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Codocente: 
+&lt;a href=&#34;http://hpc.isti.cnr.it/~nardini&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Franco Maria Nardini&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;CFU: 6&lt;/li&gt;
+&lt;li&gt;Periodo: Primo semestre&lt;/li&gt;
+&lt;li&gt;Lingua: Italiano&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;orario-delle-lezioni&#34;&gt;Orario delle lezioni&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Giovedì: 8:35 &amp;ndash; 11:10 (Lab. Microonde)&lt;/li&gt;
+&lt;li&gt;Sabato: 10:25 &amp;ndash; 13:10 (Aula 3)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ricevimento-studenti&#34;&gt;Ricevimento studenti&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dopo le lezioni o tramite appuntamento email&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;obiettivi-formativi&#34;&gt;Obiettivi formativi&lt;/h2&gt;
+&lt;p&gt;Gli obiettivi formativi del corso sono di fornire conoscenze legate all’architettura degli elaboratori con un approccio sistemistico. Il corso è concepito in due moduli. Nel primo modulo si presenta una trattazione del sistema calcolatore nel suo complesso, si introduce il repertorio delle istruzioni e i vari sottosistemi: processore, memoria e input/output. Durante le lezioni saranno discussi esempi concreti dei vari sottosistemi, analizzando le architettura x86 (standard per calcolatori processori general-purpose) e ARM (standard per calcolatori embedded). Nel secondo modulo si introduce lo standard de-facto dei sistemi operativi moderni (UNIX) con un taglio pratico. Si illustra come i vari sottosistemi visti nel primo modulo sono resi disponibili e usabili attraverso astrazioni di più alto livello tipiche del sistema operativo stesso. Questo secondo modulo include un corso pratico di programmazione su piattaforma UNIX.&lt;/p&gt;
+&lt;h2 id=&#34;prerequisiti&#34;&gt;Prerequisiti&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Conoscenza di base del C/C++&lt;/li&gt;
+&lt;li&gt;Strutture dati e algoritmi di base&lt;/li&gt;
+&lt;li&gt;Concetti di sistemi operativi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;argomenti-di-massima&#34;&gt;Argomenti di massima&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Livelli di astrazione&lt;/li&gt;
+&lt;li&gt;Prestazioni di un calcolatore&lt;/li&gt;
+&lt;li&gt;ISA e assembler MIPS&lt;/li&gt;
+&lt;li&gt;Aritmetica degli elaboratori&lt;/li&gt;
+&lt;li&gt;Schemi per sommatori e moltiplicatori hardware&lt;/li&gt;
+&lt;li&gt;Floating point&lt;/li&gt;
+&lt;li&gt;Schema a blocchi di CPU a ciclo singolo&lt;/li&gt;
+&lt;li&gt;Pipeline e prestazioni&lt;/li&gt;
+&lt;li&gt;Schema a blocchi di CPU in pipeline&lt;/li&gt;
+&lt;li&gt;Eccezioni e interruzioni&lt;/li&gt;
+&lt;li&gt;Gerarchie di memoria&lt;/li&gt;
+&lt;li&gt;Memorie cache&lt;/li&gt;
+&lt;li&gt;Memoria virtuale&lt;/li&gt;
+&lt;li&gt;Strutturazione di Unix&lt;/li&gt;
+&lt;li&gt;System/Library call&lt;/li&gt;
+&lt;li&gt;User/System/CPU time e misurazioni di tempo&lt;/li&gt;
+&lt;li&gt;Processi&lt;/li&gt;
+&lt;li&gt;Unbuffered I/O&lt;/li&gt;
+&lt;li&gt;Anatomia dello Unix File System&lt;/li&gt;
+&lt;li&gt;Layout di memoria in Unix&lt;/li&gt;
+&lt;li&gt;Comunicazioni inter-processo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;modalità-di-esame&#34;&gt;Modalità di esame&lt;/h2&gt;
+&lt;p&gt;Prova orale, composta da una prima parte sul modulo &amp;ldquo;Programmazione Avanzata in Ambiente UNIX&amp;rdquo; da compilare in forma scritta e da discutere con la commissione d&amp;rsquo;esame, seguita da una seconda parte sul modulo &amp;ldquo;Architetture degli Elaboratori&amp;rdquo; da discutere con la commissione d&amp;rsquo;esame.&lt;/p&gt;
+&lt;h2 id=&#34;libri-di-testo&#34;&gt;Libri di testo&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.amazon.it/Struttura-progetto-calcolatori-Contenuto-elettronicamente/dp/8808352021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Struttura e progetto dei calcolatori&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+di David A. Patterson e John L. Hennessy, edito da Zanichelli (quarta edizione italiana)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.amazon.it/Advanced-Programming-Environment-Richard-Stevens/dp/0321637739/ref=dp_ob_title_bk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Advanced Programming in the UNIX environment&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+di W. Richard Stevens e Stephen A. Rago, edito da Addison-Wesley (terza edizione inglese)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;programma-delle-lezioni&#34;&gt;Programma delle lezioni&lt;/h2&gt;
+&lt;p&gt;Vedi 
+&lt;a href=&#34;https://unimap.unipi.it/registri/dettregistriNEW.php?re=3301056::::&amp;amp;ri=50325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;qui&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;materiale-didattico&#34;&gt;Materiale didattico&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Architetture degli Elaboratori &lt;a href=&#34;https://khastagir.github.io/files/siselab_slides.pdf&#34; target=&#34;_blank&#34;&gt;
+&lt;i class=&#34;fas fa-file-pdf  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Programmazione Avanzata in Ambiente UNIX 
+&lt;a href=&#34;http://hpc.isti.cnr.it/~nardini/siselab_anl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  &lt;i class=&#34;fas fa-external-link-alt  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Topical result caching in web search engines</title>
+      <link>https://khastagir.github.io/publication/mele-2020102193/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/mele-2020102193/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cache Optimization via Topics in Web Search Engines</title>
+      <link>https://khastagir.github.io/publication/patent-caching/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/patent-caching/</guid>
+      <description>&lt;p&gt;International Application Number PCT/US19/31723, US Application Number 16/408,766, filed by Georgetown University on 10/ May 2019, assigned to Georgetown University on 10 December 2019.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cache Optimization via Topics in Web Search Engines</title>
+      <link>https://khastagir.github.io/publication/patent-caching-2/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/patent-caching-2/</guid>
+      <description>&lt;p&gt;US Application Number 16/654,725, filed by Georgetown University on 16 Oct 2019.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enhanced News Retrieval: Passages Lead the Way!</title>
+      <link>https://khastagir.github.io/publication/cris/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/cris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Query Processing via Logic Function Factoring</title>
+      <link>https://khastagir.github.io/publication/qvar/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/qvar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Analysis of WebRTC-based Video Streaming over Power Constrained Platforms</title>
+      <link>https://khastagir.github.io/publication/globecom-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/globecom-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Energy Management in Distributed Web Search</title>
+      <link>https://khastagir.github.io/publication/cikm-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/cikm-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Query Processing Infrastructures</title>
+      <link>https://khastagir.github.io/publication/tutorial-sigir-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/tutorial-sigir-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dataset Popularity Prediction for Caching of CMS Big Data</title>
+      <link>https://khastagir.github.io/publication/meoni-20181/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/meoni-20181/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Query Processing for Scalable Web Search</title>
+      <link>https://khastagir.github.io/publication/fntir/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/fntir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Traversal of Large Ensembles of Decision Trees</title>
+      <link>https://khastagir.github.io/publication/tpds/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/tpds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Popularity-Based Caching of CMS Datasets</title>
+      <link>https://khastagir.github.io/publication/meoni-2018221/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/meoni-2018221/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upper Bound Approximation for BlockMaxWand</title>
+      <link>https://khastagir.github.io/publication/ubbmw/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/ubbmw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QuickScorer: Efficient Traversal of Large Ensembles of Decision Trees</title>
+      <link>https://khastagir.github.io/publication/lucchese-2017383/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/lucchese-2017383/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient &amp; Effective Selective Query Rewriting with Efficiency Predictions</title>
+      <link>https://khastagir.github.io/publication/rewriting/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/rewriting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster BlockMax WAND with Variable-sized Blocks</title>
+      <link>https://khastagir.github.io/publication/vbmw/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/vbmw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multicore/manycore parallel traversal of large forests of regression trees</title>
+      <link>https://khastagir.github.io/publication/lettich-2017915/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/lettich-2017915/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Query Processing Infrastructures</title>
+      <link>https://khastagir.github.io/publication/tutorial-ecir-2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/tutorial-ecir-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy-efficient Query Processing in Web Search Engines</title>
+      <link>https://khastagir.github.io/publication/tkde/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/tkde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting CPU SIMD Extensions to Speed-up Document Scoring with Tree Ensembles</title>
+      <link>https://khastagir.github.io/publication/quickscorer-simd/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/quickscorer-simd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Green Energy to Reduce the Operational Costs of Multi-Center Web Search Engines</title>
+      <link>https://khastagir.github.io/publication/energy-www/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/energy-www/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Ranking with Additive Ensembles of Oblivious and Non-Oblivious Regression Trees</title>
+      <link>https://khastagir.github.io/publication/tois-quickscorer/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/tois-quickscorer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality versus efficiency in document scoring with learning-to-rank models</title>
+      <link>https://khastagir.github.io/publication/ipm-ltr/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/ipm-ltr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Load-sensitive CPU Power Management for Web Search Engines</title>
+      <link>https://khastagir.github.io/publication/sigir-2015-matteo/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/sigir-2015-matteo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QuickScorer: A Fast Algorithm to Rank Documents with Additive Ensembles of Regression Trees</title>
+      <link>https://khastagir.github.io/publication/quickscorer/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/quickscorer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speeding Up Document Ranking with Rank-based Features</title>
+      <link>https://khastagir.github.io/publication/sigir-2015-claudio/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/sigir-2015-claudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A method to rank documents by a computer, using additive ensembles of regression trees and cache optimisation, and search engines using such a method</title>
+      <link>https://khastagir.github.io/publication/patent-quickscorer/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/patent-quickscorer/</guid>
+      <description>&lt;p&gt;International Application Number PCT29914, filed by Tiscali S.p.A. on 17 June 2015.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The MIDAS Cloud Platform for Testing SOA Applications</title>
+      <link>https://khastagir.github.io/publication/midas-2/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/midas-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Space-Time Tradeoffs for Inverted Indexes</title>
+      <link>https://khastagir.github.io/publication/wsdm-2015/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/wsdm-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIDAS: A Cloud Platform for SOA Testing as a Service</title>
+      <link>https://khastagir.github.io/publication/midas-journal/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/midas-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Queuing Theory-based Latency/Power Tradeoff Models for Replicated Search Engines</title>
+      <link>https://khastagir.github.io/publication/freire/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/freire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A SOA Testing platform on the Cloud: the MIDAS experience</title>
+      <link>https://khastagir.github.io/publication/midas-1/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/midas-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Green Information Retrieval: Studying the Suitability of Queueing Theory in Reducing Power Consumption</title>
+      <link>https://khastagir.github.io/publication/ceri-2014/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/ceri-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Self-Adapting Latency/Power Tradeoff Model for Replicated Search Engines</title>
+      <link>https://khastagir.github.io/publication/wsdm-2014/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/wsdm-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Load-Sensitive Selective Pruning for Distributed Search</title>
+      <link>https://khastagir.github.io/publication/cikm-2013/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/cikm-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Query Processing in Highly-Loaded Search Engines</title>
+      <link>https://khastagir.github.io/publication/spire-2013/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/spire-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Query Scheduling for a Replicated Search Engine</title>
+      <link>https://khastagir.github.io/publication/ecir-2013/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/ecir-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On cloud based multisource reliable multicast transport in broadband multimedia satellite networks</title>
+      <link>https://khastagir.github.io/publication/psats-2012/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/psats-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient and effective retrieval using selective pruning</title>
+      <link>https://khastagir.github.io/publication/wsdm-2013/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/wsdm-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance evaluation of SPDY over high latency satellite channels</title>
+      <link>https://khastagir.github.io/publication/psats-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/psats-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Dynamic Pruning Safety on Learning to Rank Effectiveness</title>
+      <link>https://khastagir.github.io/publication/sigir-2012-2/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/sigir-2012-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Predict Response Times for Online Query Scheduling</title>
+      <link>https://khastagir.github.io/publication/sigir-2012-1/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/sigir-2012-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduling Queries Across Replicas</title>
+      <link>https://khastagir.github.io/publication/sigir-2012-3/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/sigir-2012-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource Management in Grid/Clouds (invited)</title>
+      <link>https://khastagir.github.io/publication/psats-2012-invited/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/psats-2012-invited/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive instantiation of service workflows using a chemical approach</title>
+      <link>https://khastagir.github.io/publication/di-napoli-2010-ais-2031978-2032013/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/di-napoli-2010-ais-2031978-2032013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Upper Bounds for Dynamic Pruning</title>
+      <link>https://khastagir.github.io/publication/ictir-2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/ictir-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Different Docid Orderings on Dynamic Pruning Retrieval Strategies</title>
+      <link>https://khastagir.github.io/publication/sigir-2011/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/sigir-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representing Document Lengths with Identifiers</title>
+      <link>https://khastagir.github.io/publication/doclength/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/doclength/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upper-bound Approximations for Dynamic Pruning</title>
+      <link>https://khastagir.github.io/publication/approximations-journal/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/approximations-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Stream Communications in Component-based Applications</title>
+      <link>https://khastagir.github.io/publication/performance-journal/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/performance-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavioral skeletons in GCM: automatic management of grid components,</title>
+      <link>https://khastagir.github.io/publication/pdp-08-beske/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/pdp-08-beske/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QoS-constrained List Scheduling Heuristics for Parallel Applications on Grids</title>
+      <link>https://khastagir.github.io/publication/qlse/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/qlse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Launch-time Scheduling Heuristics for Parallel Applications on Wide Area Grids</title>
+      <link>https://khastagir.github.io/publication/wase-journal/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/wase-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Performance Model for Stream-based Computations</title>
+      <link>https://khastagir.github.io/publication/stream-model/</link>
+      <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/stream-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Execution Support for High Performance Heterogenous Component-based Applications on the Grid</title>
+      <link>https://khastagir.github.io/publication/europar-gea/</link>
+      <pubDate>Tue, 01 Aug 2006 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/europar-gea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Implementation of a Grid Network-Aware Resource Broker</title>
+      <link>https://khastagir.github.io/publication/gnrb/</link>
+      <pubDate>Wed, 01 Feb 2006 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/gnrb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Level Grid Programming with ASSIST</title>
+      <link>https://khastagir.github.io/publication/assist-journal/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/assist-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Grid Information Service based on Peer-to-Peer</title>
+      <link>https://khastagir.github.io/publication/europar-p-2-p/</link>
+      <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/europar-p-2-p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Run Scientific Applications Over Web Services</title>
+      <link>https://khastagir.github.io/publication/webservices-oslo/</link>
+      <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/webservices-oslo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Web Services to Run Distributed Numerical Applications</title>
+      <link>https://khastagir.github.io/publication/webservices-budapest/</link>
+      <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/webservices-budapest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Tool to Execute ASSIST Programs on Globus-based Grids</title>
+      <link>https://khastagir.github.io/publication/assistconf/</link>
+      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/assistconf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

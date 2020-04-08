@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raffaele Perego | Nicola Tonellotto Homepage</title>
+    <link>https://khastagir.github.io/authors/raffaele-perego/</link>
+      <atom:link href="https://khastagir.github.io/authors/raffaele-perego/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raffaele Perego</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nicola Tonellotto 2020-2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Raffaele Perego</title>
+      <link>https://khastagir.github.io/authors/raffaele-perego/</link>
+    </image>
+    
+    <item>
+      <title>Topical result caching in web search engines</title>
+      <link>https://khastagir.github.io/publication/mele-2020102193/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/mele-2020102193/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cache Optimization via Topics in Web Search Engines</title>
+      <link>https://khastagir.github.io/publication/patent-caching/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/patent-caching/</guid>
+      <description>&lt;p&gt;International Application Number PCT/US19/31723, US Application Number 16/408,766, filed by Georgetown University on 10/ May 2019, assigned to Georgetown University on 10 December 2019.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cache Optimization via Topics in Web Search Engines</title>
+      <link>https://khastagir.github.io/publication/patent-caching-2/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/patent-caching-2/</guid>
+      <description>&lt;p&gt;US Application Number 16/654,725, filed by Georgetown University on 16 Oct 2019.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enhanced News Retrieval: Passages Lead the Way!</title>
+      <link>https://khastagir.github.io/publication/cris/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/cris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dataset Popularity Prediction for Caching of CMS Big Data</title>
+      <link>https://khastagir.github.io/publication/meoni-20181/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/meoni-20181/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Traversal of Large Ensembles of Decision Trees</title>
+      <link>https://khastagir.github.io/publication/tpds/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/tpds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Popularity-Based Caching of CMS Datasets</title>
+      <link>https://khastagir.github.io/publication/meoni-2018221/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/meoni-2018221/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QuickScorer: Efficient Traversal of Large Ensembles of Decision Trees</title>
+      <link>https://khastagir.github.io/publication/lucchese-2017383/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/lucchese-2017383/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multicore/manycore parallel traversal of large forests of regression trees</title>
+      <link>https://khastagir.github.io/publication/lettich-2017915/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/lettich-2017915/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting CPU SIMD Extensions to Speed-up Document Scoring with Tree Ensembles</title>
+      <link>https://khastagir.github.io/publication/quickscorer-simd/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/quickscorer-simd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Ranking with Additive Ensembles of Oblivious and Non-Oblivious Regression Trees</title>
+      <link>https://khastagir.github.io/publication/tois-quickscorer/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/tois-quickscorer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality versus efficiency in document scoring with learning-to-rank models</title>
+      <link>https://khastagir.github.io/publication/ipm-ltr/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/ipm-ltr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QuickScorer: A Fast Algorithm to Rank Documents with Additive Ensembles of Regression Trees</title>
+      <link>https://khastagir.github.io/publication/quickscorer/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/quickscorer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speeding Up Document Ranking with Rank-based Features</title>
+      <link>https://khastagir.github.io/publication/sigir-2015-claudio/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/sigir-2015-claudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A method to rank documents by a computer, using additive ensembles of regression trees and cache optimisation, and search engines using such a method</title>
+      <link>https://khastagir.github.io/publication/patent-quickscorer/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/patent-quickscorer/</guid>
+      <description>&lt;p&gt;International Application Number PCT29914, filed by Tiscali S.p.A. on 17 June 2015.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MIDAS: A Cloud Platform for SOA Testing as a Service</title>
+      <link>https://khastagir.github.io/publication/midas-journal/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/midas-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Load-Sensitive Selective Pruning for Distributed Search</title>
+      <link>https://khastagir.github.io/publication/cikm-2013/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/cikm-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Query Processing in Highly-Loaded Search Engines</title>
+      <link>https://khastagir.github.io/publication/spire-2013/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/spire-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representing Document Lengths with Identifiers</title>
+      <link>https://khastagir.github.io/publication/doclength/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/doclength/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Domenico Dato | Nicola Tonellotto Homepage</title>
+    <link>https://khastagir.github.io/authors/domenico-dato/</link>
+      <atom:link href="https://khastagir.github.io/authors/domenico-dato/index.xml" rel="self" type="application/rss+xml" />
+    <description>Domenico Dato</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nicola Tonellotto 2020-2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Domenico Dato</title>
+      <link>https://khastagir.github.io/authors/domenico-dato/</link>
+    </image>
+    
+    <item>
+      <title>Fast Ranking with Additive Ensembles of Oblivious and Non-Oblivious Regression Trees</title>
+      <link>https://khastagir.github.io/publication/tois-quickscorer/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/tois-quickscorer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A method to rank documents by a computer, using additive ensembles of regression trees and cache optimisation, and search engines using such a method</title>
+      <link>https://khastagir.github.io/publication/patent-quickscorer/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/patent-quickscorer/</guid>
+      <description>&lt;p&gt;International Application Number PCT29914, filed by Tiscali S.p.A. on 17 June 2015.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

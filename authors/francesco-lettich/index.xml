@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francesco Lettich | Nicola Tonellotto Homepage</title>
+    <link>https://khastagir.github.io/authors/francesco-lettich/</link>
+      <atom:link href="https://khastagir.github.io/authors/francesco-lettich/index.xml" rel="self" type="application/rss+xml" />
+    <description>Francesco Lettich</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nicola Tonellotto 2020-2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Francesco Lettich</title>
+      <link>https://khastagir.github.io/authors/francesco-lettich/</link>
+    </image>
+    
+    <item>
+      <title>Parallel Traversal of Large Ensembles of Decision Trees</title>
+      <link>https://khastagir.github.io/publication/tpds/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/tpds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multicore/manycore parallel traversal of large forests of regression trees</title>
+      <link>https://khastagir.github.io/publication/lettich-2017915/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/lettich-2017915/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

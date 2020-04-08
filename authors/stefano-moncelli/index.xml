@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stefano Moncelli | Nicola Tonellotto Homepage</title>
+    <link>https://khastagir.github.io/authors/stefano-moncelli/</link>
+      <atom:link href="https://khastagir.github.io/authors/stefano-moncelli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stefano Moncelli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nicola Tonellotto 2020-2020</copyright><lastBuildDate>Thu, 01 Sep 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Stefano Moncelli</title>
+      <link>https://khastagir.github.io/authors/stefano-moncelli/</link>
+    </image>
+    
+    <item>
+      <title>A Grid Information Service based on Peer-to-Peer</title>
+      <link>https://khastagir.github.io/publication/europar-p-2-p/</link>
+      <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/europar-p-2-p/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maurizio Giordano | Nicola Tonellotto Homepage</title>
+    <link>https://khastagir.github.io/authors/maurizio-giordano/</link>
+      <atom:link href="https://khastagir.github.io/authors/maurizio-giordano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maurizio Giordano</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nicola Tonellotto 2020-2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Maurizio Giordano</title>
+      <link>https://khastagir.github.io/authors/maurizio-giordano/</link>
+    </image>
+    
+    <item>
+      <title>MIDAS: A Cloud Platform for SOA Testing as a Service</title>
+      <link>https://khastagir.github.io/publication/midas-journal/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/midas-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A SOA Testing platform on the Cloud: the MIDAS experience</title>
+      <link>https://khastagir.github.io/publication/midas-1/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/midas-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive instantiation of service workflows using a chemical approach</title>
+      <link>https://khastagir.github.io/publication/di-napoli-2010-ais-2031978-2032013/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/di-napoli-2010-ais-2031978-2032013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

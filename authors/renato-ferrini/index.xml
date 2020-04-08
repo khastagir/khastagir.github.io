@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Renato Ferrini | Nicola Tonellotto Homepage</title>
+    <link>https://khastagir.github.io/authors/renato-ferrini/</link>
+      <atom:link href="https://khastagir.github.io/authors/renato-ferrini/index.xml" rel="self" type="application/rss+xml" />
+    <description>Renato Ferrini</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nicola Tonellotto 2020-2020</copyright><lastBuildDate>Fri, 01 Feb 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Renato Ferrini</title>
+      <link>https://khastagir.github.io/authors/renato-ferrini/</link>
+    </image>
+    
+    <item>
+      <title>QoS-constrained List Scheduling Heuristics for Parallel Applications on Grids</title>
+      <link>https://khastagir.github.io/publication/qlse/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/qlse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Launch-time Scheduling Heuristics for Parallel Applications on Wide Area Grids</title>
+      <link>https://khastagir.github.io/publication/wase-journal/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/wase-journal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

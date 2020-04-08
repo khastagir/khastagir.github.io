@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicola Tonellotto | Nicola Tonellotto Homepage</title>
+    <link>https://khastagir.github.io/authors/nicola-tonellotto/</link>
+      <atom:link href="https://khastagir.github.io/authors/nicola-tonellotto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicola Tonellotto</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nicola Tonellotto 2020-2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Nicola Tonellotto</title>
+      <link>https://khastagir.github.io/authors/nicola-tonellotto/</link>
+    </image>
+    
+    <item>
+      <title>Topical result caching in web search engines</title>
+      <link>https://khastagir.github.io/publication/mele-2020102193/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/mele-2020102193/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cache Optimization via Topics in Web Search Engines</title>
+      <link>https://khastagir.github.io/publication/patent-caching/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/patent-caching/</guid>
+      <description>&lt;p&gt;International Application Number PCT/US19/31723, US Application Number 16/408,766, filed by Georgetown University on 10/ May 2019, assigned to Georgetown University on 10 December 2019.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cache Optimization via Topics in Web Search Engines</title>
+      <link>https://khastagir.github.io/publication/patent-caching-2/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/patent-caching-2/</guid>
+      <description>&lt;p&gt;US Application Number 16/654,725, filed by Georgetown University on 16 Oct 2019.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enhanced News Retrieval: Passages Lead the Way!</title>
+      <link>https://khastagir.github.io/publication/cris/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/cris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Query Processing via Logic Function Factoring</title>
+      <link>https://khastagir.github.io/publication/qvar/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/qvar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Analysis of WebRTC-based Video Streaming over Power Constrained Platforms</title>
+      <link>https://khastagir.github.io/publication/globecom-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/globecom-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Query Processing Infrastructures</title>
+      <link>https://khastagir.github.io/publication/tutorial-sigir-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/tutorial-sigir-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dataset Popularity Prediction for Caching of CMS Big Data</title>
+      <link>https://khastagir.github.io/publication/meoni-20181/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/meoni-20181/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Query Processing for Scalable Web Search</title>
+      <link>https://khastagir.github.io/publication/fntir/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/fntir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Traversal of Large Ensembles of Decision Trees</title>
+      <link>https://khastagir.github.io/publication/tpds/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/tpds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Popularity-Based Caching of CMS Datasets</title>
+      <link>https://khastagir.github.io/publication/meoni-2018221/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/meoni-2018221/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upper Bound Approximation for BlockMaxWand</title>
+      <link>https://khastagir.github.io/publication/ubbmw/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/ubbmw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QuickScorer: Efficient Traversal of Large Ensembles of Decision Trees</title>
+      <link>https://khastagir.github.io/publication/lucchese-2017383/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/lucchese-2017383/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient &amp; Effective Selective Query Rewriting with Efficiency Predictions</title>
+      <link>https://khastagir.github.io/publication/rewriting/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/rewriting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster BlockMax WAND with Variable-sized Blocks</title>
+      <link>https://khastagir.github.io/publication/vbmw/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/vbmw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multicore/manycore parallel traversal of large forests of regression trees</title>
+      <link>https://khastagir.github.io/publication/lettich-2017915/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/lettich-2017915/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Query Processing Infrastructures</title>
+      <link>https://khastagir.github.io/publication/tutorial-ecir-2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/tutorial-ecir-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy-efficient Query Processing in Web Search Engines</title>
+      <link>https://khastagir.github.io/publication/tkde/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/tkde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting CPU SIMD Extensions to Speed-up Document Scoring with Tree Ensembles</title>
+      <link>https://khastagir.github.io/publication/quickscorer-simd/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/quickscorer-simd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Ranking with Additive Ensembles of Oblivious and Non-Oblivious Regression Trees</title>
+      <link>https://khastagir.github.io/publication/tois-quickscorer/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/tois-quickscorer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality versus efficiency in document scoring with learning-to-rank models</title>
+      <link>https://khastagir.github.io/publication/ipm-ltr/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/ipm-ltr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Load-sensitive CPU Power Management for Web Search Engines</title>
+      <link>https://khastagir.github.io/publication/sigir-2015-matteo/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/sigir-2015-matteo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QuickScorer: A Fast Algorithm to Rank Documents with Additive Ensembles of Regression Trees</title>
+      <link>https://khastagir.github.io/publication/quickscorer/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/quickscorer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speeding Up Document Ranking with Rank-based Features</title>
+      <link>https://khastagir.github.io/publication/sigir-2015-claudio/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/sigir-2015-claudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A method to rank documents by a computer, using additive ensembles of regression trees and cache optimisation, and search engines using such a method</title>
+      <link>https://khastagir.github.io/publication/patent-quickscorer/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/patent-quickscorer/</guid>
+      <description>&lt;p&gt;International Application Number PCT29914, filed by Tiscali S.p.A. on 17 June 2015.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The MIDAS Cloud Platform for Testing SOA Applications</title>
+      <link>https://khastagir.github.io/publication/midas-2/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/midas-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Space-Time Tradeoffs for Inverted Indexes</title>
+      <link>https://khastagir.github.io/publication/wsdm-2015/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/wsdm-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIDAS: A Cloud Platform for SOA Testing as a Service</title>
+      <link>https://khastagir.github.io/publication/midas-journal/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/midas-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Queuing Theory-based Latency/Power Tradeoff Models for Replicated Search Engines</title>
+      <link>https://khastagir.github.io/publication/freire/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/freire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Green Information Retrieval: Studying the Suitability of Queueing Theory in Reducing Power Consumption</title>
+      <link>https://khastagir.github.io/publication/ceri-2014/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/ceri-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Self-Adapting Latency/Power Tradeoff Model for Replicated Search Engines</title>
+      <link>https://khastagir.github.io/publication/wsdm-2014/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/wsdm-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Load-Sensitive Selective Pruning for Distributed Search</title>
+      <link>https://khastagir.github.io/publication/cikm-2013/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/cikm-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Query Processing in Highly-Loaded Search Engines</title>
+      <link>https://khastagir.github.io/publication/spire-2013/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/spire-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Query Scheduling for a Replicated Search Engine</title>
+      <link>https://khastagir.github.io/publication/ecir-2013/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/ecir-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On cloud based multisource reliable multicast transport in broadband multimedia satellite networks</title>
+      <link>https://khastagir.github.io/publication/psats-2012/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/psats-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient and effective retrieval using selective pruning</title>
+      <link>https://khastagir.github.io/publication/wsdm-2013/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/wsdm-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance evaluation of SPDY over high latency satellite channels</title>
+      <link>https://khastagir.github.io/publication/psats-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/psats-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Dynamic Pruning Safety on Learning to Rank Effectiveness</title>
+      <link>https://khastagir.github.io/publication/sigir-2012-2/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/sigir-2012-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Predict Response Times for Online Query Scheduling</title>
+      <link>https://khastagir.github.io/publication/sigir-2012-1/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/sigir-2012-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduling Queries Across Replicas</title>
+      <link>https://khastagir.github.io/publication/sigir-2012-3/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/sigir-2012-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource Management in Grid/Clouds (invited)</title>
+      <link>https://khastagir.github.io/publication/psats-2012-invited/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/psats-2012-invited/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive instantiation of service workflows using a chemical approach</title>
+      <link>https://khastagir.github.io/publication/di-napoli-2010-ais-2031978-2032013/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/di-napoli-2010-ais-2031978-2032013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Upper Bounds for Dynamic Pruning</title>
+      <link>https://khastagir.github.io/publication/ictir-2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/ictir-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Different Docid Orderings on Dynamic Pruning Retrieval Strategies</title>
+      <link>https://khastagir.github.io/publication/sigir-2011/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/sigir-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representing Document Lengths with Identifiers</title>
+      <link>https://khastagir.github.io/publication/doclength/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/doclength/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upper-bound Approximations for Dynamic Pruning</title>
+      <link>https://khastagir.github.io/publication/approximations-journal/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/approximations-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Stream Communications in Component-based Applications</title>
+      <link>https://khastagir.github.io/publication/performance-journal/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/performance-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavioral skeletons in GCM: automatic management of grid components,</title>
+      <link>https://khastagir.github.io/publication/pdp-08-beske/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/pdp-08-beske/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QoS-constrained List Scheduling Heuristics for Parallel Applications on Grids</title>
+      <link>https://khastagir.github.io/publication/qlse/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/qlse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Launch-time Scheduling Heuristics for Parallel Applications on Wide Area Grids</title>
+      <link>https://khastagir.github.io/publication/wase-journal/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/wase-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Performance Model for Stream-based Computations</title>
+      <link>https://khastagir.github.io/publication/stream-model/</link>
+      <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/stream-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Execution Support for High Performance Heterogenous Component-based Applications on the Grid</title>
+      <link>https://khastagir.github.io/publication/europar-gea/</link>
+      <pubDate>Tue, 01 Aug 2006 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/europar-gea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Implementation of a Grid Network-Aware Resource Broker</title>
+      <link>https://khastagir.github.io/publication/gnrb/</link>
+      <pubDate>Wed, 01 Feb 2006 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/gnrb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Level Grid Programming with ASSIST</title>
+      <link>https://khastagir.github.io/publication/assist-journal/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/assist-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Grid Information Service based on Peer-to-Peer</title>
+      <link>https://khastagir.github.io/publication/europar-p-2-p/</link>
+      <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/europar-p-2-p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Run Scientific Applications Over Web Services</title>
+      <link>https://khastagir.github.io/publication/webservices-oslo/</link>
+      <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/webservices-oslo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Web Services to Run Distributed Numerical Applications</title>
+      <link>https://khastagir.github.io/publication/webservices-budapest/</link>
+      <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/webservices-budapest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Tool to Execute ASSIST Programs on Globus-based Grids</title>
+      <link>https://khastagir.github.io/publication/assistconf/</link>
+      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/assistconf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

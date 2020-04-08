@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ophir Frieder, Nicola Tonellotto Matteo Catena | Nicola Tonellotto Homepage</title>
+    <link>https://khastagir.github.io/authors/ophir-frieder-nicola-tonellotto-matteo-catena/</link>
+      <atom:link href="https://khastagir.github.io/authors/ophir-frieder-nicola-tonellotto-matteo-catena/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ophir Frieder, Nicola Tonellotto Matteo Catena</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nicola Tonellotto 2020-2020</copyright><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Ophir Frieder, Nicola Tonellotto Matteo Catena</title>
+      <link>https://khastagir.github.io/authors/ophir-frieder-nicola-tonellotto-matteo-catena/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Energy Management in Distributed Web Search</title>
+      <link>https://khastagir.github.io/publication/cikm-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/cikm-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

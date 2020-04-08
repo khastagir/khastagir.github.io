@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luca Caviglione | Nicola Tonellotto Homepage</title>
+    <link>https://khastagir.github.io/authors/luca-caviglione/</link>
+      <atom:link href="https://khastagir.github.io/authors/luca-caviglione/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luca Caviglione</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nicola Tonellotto 2020-2020</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Luca Caviglione</title>
+      <link>https://khastagir.github.io/authors/luca-caviglione/</link>
+    </image>
+    
+    <item>
+      <title>Performance evaluation of SPDY over high latency satellite channels</title>
+      <link>https://khastagir.github.io/publication/psats-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/psats-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

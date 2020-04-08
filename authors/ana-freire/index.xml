@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ana Freire | Nicola Tonellotto Homepage</title>
+    <link>https://khastagir.github.io/authors/ana-freire/</link>
+      <atom:link href="https://khastagir.github.io/authors/ana-freire/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ana Freire</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nicola Tonellotto 2020-2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Ana Freire</title>
+      <link>https://khastagir.github.io/authors/ana-freire/</link>
+    </image>
+    
+    <item>
+      <title>Queuing Theory-based Latency/Power Tradeoff Models for Replicated Search Engines</title>
+      <link>https://khastagir.github.io/publication/freire/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/freire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Green Information Retrieval: Studying the Suitability of Queueing Theory in Reducing Power Consumption</title>
+      <link>https://khastagir.github.io/publication/ceri-2014/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/ceri-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Self-Adapting Latency/Power Tradeoff Model for Replicated Search Engines</title>
+      <link>https://khastagir.github.io/publication/wsdm-2014/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/wsdm-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Query Scheduling for a Replicated Search Engine</title>
+      <link>https://khastagir.github.io/publication/ecir-2013/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/ecir-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduling Queries Across Replicas</title>
+      <link>https://khastagir.github.io/publication/sigir-2012-3/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/sigir-2012-3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

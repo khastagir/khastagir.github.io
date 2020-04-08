@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rossano Venturini | Nicola Tonellotto Homepage</title>
+    <link>https://khastagir.github.io/authors/rossano-venturini/</link>
+      <atom:link href="https://khastagir.github.io/authors/rossano-venturini/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rossano Venturini</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nicola Tonellotto 2020-2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Rossano Venturini</title>
+      <link>https://khastagir.github.io/authors/rossano-venturini/</link>
+    </image>
+    
+    <item>
+      <title>Parallel Traversal of Large Ensembles of Decision Trees</title>
+      <link>https://khastagir.github.io/publication/tpds/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/tpds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QuickScorer: Efficient Traversal of Large Ensembles of Decision Trees</title>
+      <link>https://khastagir.github.io/publication/lucchese-2017383/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/lucchese-2017383/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster BlockMax WAND with Variable-sized Blocks</title>
+      <link>https://khastagir.github.io/publication/vbmw/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/vbmw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multicore/manycore parallel traversal of large forests of regression trees</title>
+      <link>https://khastagir.github.io/publication/lettich-2017915/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/lettich-2017915/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting CPU SIMD Extensions to Speed-up Document Scoring with Tree Ensembles</title>
+      <link>https://khastagir.github.io/publication/quickscorer-simd/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/quickscorer-simd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Ranking with Additive Ensembles of Oblivious and Non-Oblivious Regression Trees</title>
+      <link>https://khastagir.github.io/publication/tois-quickscorer/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/tois-quickscorer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QuickScorer: A Fast Algorithm to Rank Documents with Additive Ensembles of Regression Trees</title>
+      <link>https://khastagir.github.io/publication/quickscorer/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/quickscorer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A method to rank documents by a computer, using additive ensembles of regression trees and cache optimisation, and search engines using such a method</title>
+      <link>https://khastagir.github.io/publication/patent-quickscorer/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/patent-quickscorer/</guid>
+      <description>&lt;p&gt;International Application Number PCT29914, filed by Tiscali S.p.A. on 17 June 2015.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimal Space-Time Tradeoffs for Inverted Indexes</title>
+      <link>https://khastagir.github.io/publication/wsdm-2015/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/wsdm-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,966 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Nicola Tonellotto">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Cloud Computing Anno Accademico 2019/20    Due to the COVID-19 national emergency, the lectures will be provided in online mode only using Microsoft Teams. The code to access the online classrooms is available here.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://khastagir.github.io/courses/aa1920/cloud/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://khastagir.github.io/courses/aa1920/cloud/">
+
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Nicola Tonellotto Homepage">
+  <meta property="og:url" content="https://khastagir.github.io/courses/aa1920/cloud/">
+  <meta property="og:title" content=" | Nicola Tonellotto Homepage">
+  <meta property="og:description" content="Cloud Computing Anno Accademico 2019/20    Due to the COVID-19 national emergency, the lectures will be provided in online mode only using Microsoft Teams. The code to access the online classrooms is available here."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2020-04-03T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2020-04-03T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+
+  
+  
+  
+  
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin="anonymous">
+  
+  <script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#2962ff",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#2962ff"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://www.cookiesandyou.com"
+      }
+    })});
+  </script>
+
+
+
+  
+
+
+
+
+
+  <title> | Nicola Tonellotto Homepage</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Nicola Tonellotto Homepage</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Nicola Tonellotto Homepage</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#experience"><span>Experience</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#awards"><span>Awards</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+
+  
+    
+  
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+
+  
+  
+  
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/courses/aa1920/cloud/">Teaching</a>
+    <ul class="nav docs-sidenav">
+      
+      <li class="active">
+        <a href="/courses/aa1920/cloud/">Cloud Computing</a>
+      </li>
+      
+      <li >
+        <a href="/courses/aa1920/siselab/">Sistemi di Elaborazione</a>
+      </li>
+      
+      <li >
+        <a href="/courses/aa1920/informatica/">Informatica</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li></li>
+      </ul>
+    </li>
+    <li><a href="#general-information">General information</a></li>
+    <li><a href="#schedule">Schedule</a></li>
+    <li><a href="#office-hours">Office hours</a></li>
+    <li><a href="#learning-objectives">Learning objectives</a></li>
+    <li><a href="#syllabus">Syllabus</a></li>
+    <li><a href="#final-exam">Final Exam</a></li>
+    <li><a href="#libri-di-testo">Libri di testo</a></li>
+    <li><a href="#class-registry">Class registry</a></li>
+    <li><a href="#course-material">Course Material</a></li>
+  </ul>
+</nav>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article">
+
+        <div class="docs-article-container">
+          <h1></h1>
+
+          <div class="article-style">
+            <h1 id="cloud-computing">Cloud Computing</h1>
+<h4 id="anno-accademico-201920">Anno Accademico 2019/20</h4>
+<hr>
+<div class="alert alert-warning">
+  <div>
+    <ul>
+<li>Due to the COVID-19 national emergency, the lectures will be provided in online mode only using <a href="https://products.office.com/en-US/microsoft-teams/group-chat-software">Microsoft Teams</a>.</li>
+<li>The code to access the online classrooms is available <a href="https://elearn.ing.unipi.it/mod/forum/discuss.php?d=8680">here</a>.</li>
+</ul>
+  </div>
+</div>
+<h2 id="general-information">General information</h2>
+<ul>
+<li>MSc in 
+<a href="https://computer.ing.unipi.it/aide-lm" target="_blank" rel="noopener">Artificial Intelligence and Data Engineering</a>, 
+<a href="http://www.unipi.it" target="_blank" rel="noopener">University of Pisa</a></li>
+<li>MSc in 
+<a href="https://computer.ing.unipi.it/ce-lm" target="_blank" rel="noopener">Computer Engineering</a>, 
+<a href="http://www.unipi.it" target="_blank" rel="noopener">University of Pisa</a></li>
+<li>Teacher: 
+<a href="http://www.iet.unipi.it/c.vallati/" target="_blank" rel="noopener">Carlo Vallati</a></li>
+<li>Co-teacher: 
+<a href="http://tonellotto.github.io" target="_blank" rel="noopener">Nicola Tonellotto</a></li>
+<li>CFU: 9</li>
+<li>Term: Second semeter</li>
+<li>Language: English</li>
+</ul>
+<h2 id="schedule">Schedule</h2>
+<ul>
+<li>Tuesday 8:30 &ndash; 10:30 (<del>Aula SI5, Polo B</del> Online)</li>
+<li>Tuesday 15:30 &ndash; 18:30 (<del>Aula A21, Polo A</del> Online)</li>
+<li>Friday 8:30 &ndash; 11:30 (<del>Aula A22, Polo A</del> Online)</li>
+</ul>
+<h2 id="office-hours">Office hours</h2>
+<ul>
+<li>Monday 10:00 &ndash; 13:00 (<del>Information Engineering Department, Polo A</del> Online)</li>
+</ul>
+<h2 id="learning-objectives">Learning objectives</h2>
+<p>The objective of the course is to teach topics in cloud computing, including also hands-on technical knowledge. Foundation principles of cloud computing and advanced technologies are covered including concepts of the cloud infrastructure, cloud platforms and cloud programming models. At the end of the course, students are expected to develop in deep knowledge of the cloud computing infrastructure and platforms, required to understand, design, and analyze current and future cloud infrastructure and applications.</p>
+<h2 id="syllabus">Syllabus</h2>
+<ul>
+<li>GENERAL INTRODUCTION AND FOUNDATIONS CONCEPTS. General introduction to Cloud computing. Comparison with traditional computing. Main advantages and benefits. How cloud computing addresses business challenges.</li>
+<li>VIRTUALIZATION TECHNOLOGIES. Introduction to computing resource virtualization. Machine level virtualization techniques. Operating system level virtualization techniques, containerization. Advantages and disadvantages of each approach. Laboratory: exercises on virtualization (Libvirt) and containerization (Docker).</li>
+<li>CLOUD APPLICATIONS. Cloud application structure. Rest services. Distributed cloud applications. Queue based distributed systems. Laboratory: practical examples of cloud applications</li>
+<li>CLOUD PLATFORMS. Cloud computing platforms overall architecture: IaaS and PaaS platform architecture. Introduction to OpenStack and Kubernetes. Laboratory: hands on with OpenStack and Kubernetes.</li>
+<li>CLOUD INFRASTRUCTURE AND MECHANISMS. General architecture of a datacenter. Principles of cloud platform networking. Cloud storage and distributed file systems. Content Distribution Networks. Service Level Agreement. Future trends in cloud computing architectures.</li>
+<li>CLOUD PROGRAMMING MODELS. General introduction to cloud programming models for big data analysis. Cloud execution flow, scheduling and fault tolerance. The MapReduce programming model. Laboratory: hands on experience with Hadoop and Spark.</li>
+</ul>
+<h2 id="final-exam">Final Exam</h2>
+<p>Students have to carry out two projects in group as part of the final exam, one project covering the part on Cloud Applications/Platforms, another covering the part on Cloud Programming Models. The final exam consists in a presentation and discussion of the project and an oral exam.</p>
+<h2 id="libri-di-testo">Libri di testo</h2>
+<ul>
+<li>
+<p>
+<a href="https://www.amazon.com/Cloud-Computing-Sandeep-Bhowmik/dp/1316638103" target="_blank" rel="noopener"><strong>Cloud computing</strong></a><br>
+by S. Bhowmik, Cambridge University Press (1st edition).</p>
+</li>
+<li>
+<p>
+<a href="https://www.amazon.it/Hadoop-Definitive-Guide-Tom-White/dp/1491901632" target="_blank" rel="noopener"><strong>Hadoop - The Definitive Guide</strong></a><br>
+by T. White, O&rsquo;Reilly (4th edition).</p>
+</li>
+<li>
+<p>
+<a href="https://www.amazon.it/Learning-Spark-Lightning-Fast-Data-Analysis/dp/1449358624" target="_blank" rel="noopener"><strong>Learning Spark</strong></a><br>
+by H. Karay, A. Konwinski, P. Wnedell and M. Zaharia, O&rsquo;Reilly.</p>
+</li>
+</ul>
+<h2 id="class-registry">Class registry</h2>
+<p>See 
+<a href="https://unimap.unipi.it/registri/dettregistriNEW.php?re=3301056::::&amp;ri=50325" target="_blank" rel="noopener">here</a>.</p>
+<h2 id="course-material">Course Material</h2>
+<ul>
+<li>Cloud platforms 
+<a href="https://elearn.ing.unipi.it/course/view.php?id=1802%22%22" target="_blank" rel="noopener">
+  <i class="fas fa-external-link-alt  pr-1 fa-fw"></i></a></li>
+<li>Cloud programming: 
+<a href="https://github.com/tonellotto/cloud-computing" target="_blank" rel="noopener">
+  <i class="fas fa-external-link-alt  pr-1 fa-fw"></i></a></li>
+</ul>
+
+          </div>
+
+          
+
+
+
+          
+        </div>
+
+        <div class="body-footer">
+          <p>Last updated on 3 Apr 2020</p>
+
+          
+
+
+
+
+
+  
+  
+
+<p class="edit-page">
+  <a href="https://github.com/gcushen/hugo-academic/edit/master/content/courses/aa1920/cloud.md">
+    <i class="fas fa-pen pr-2"></i>Edit this page
+  </a>
+</p>
+
+
+
+
+          
+
+        </div>
+
+      </article>
+
+      <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    © Nicola Tonellotto 2020-2020 &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+  </p>
+</footer>
+
+
+    </main>
+  </div>
+</div>
+
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/java.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/python.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/bash.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/xml.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/cpp.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js" integrity="sha256-pB/deHc9CGfFpJRjC43imB29Rse8tak+5eXqntO94ck=" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

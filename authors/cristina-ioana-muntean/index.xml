@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cristina Ioana Muntean | Nicola Tonellotto Homepage</title>
+    <link>https://khastagir.github.io/authors/cristina-ioana-muntean/</link>
+      <atom:link href="https://khastagir.github.io/authors/cristina-ioana-muntean/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cristina Ioana Muntean</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nicola Tonellotto 2020-2020</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Cristina Ioana Muntean</title>
+      <link>https://khastagir.github.io/authors/cristina-ioana-muntean/</link>
+    </image>
+    
+    <item>
+      <title>Enhanced News Retrieval: Passages Lead the Way!</title>
+      <link>https://khastagir.github.io/publication/cris/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://khastagir.github.io/publication/cris/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
